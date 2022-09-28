@@ -11,7 +11,7 @@ This project tries to enable clients to be able to solve the challenges ensuring
 To setup you should create a Python 3 virtual environment and then clone this repository. The packages can then be installed from requirements.txt file.
 
 ``` 
-git clone https://github.com/bkgetYohansSamuel/certificate_distribution_dApp.git
+git clone https://github.com/YohansSamuel/certificate_distribution_dApp.git
 cd certificate_distribution_dApp
 pip install -r requirements.txt
 ```
